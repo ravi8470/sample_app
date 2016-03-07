@@ -7,6 +7,8 @@ gem 'rails', '4.2.5.1'
 gem 'bootstrap-sass', '2.3.2.0'
 gem 'sprockets', '3.5.2'
 gem 'bcrypt-ruby', '3.1.5'
+gem 'faker', '1.1.2'
+gem 'will_paginate', '3.0.7'
 gem 'sqlite3'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
