@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '4.2.5.1'
+gem 'rails', '5.2.8.1'
 # Use sqlite3 as the database for Active Record
 gem 'bootstrap-sass', '2.3.2.0'
 gem 'sprockets', '3.5.2'
